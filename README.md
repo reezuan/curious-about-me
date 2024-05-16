@@ -1,5 +1,5 @@
 # curious-about-me
-Wondering who the heck the smiling dude is? Start here!
+Hey! It's me, Rizuan.
 
 ## What languages do I know?
 - English (ha!)
@@ -7,3 +7,7 @@ Wondering who the heck the smiling dude is? Start here!
 - CSS
 - JavaScript
 - Java
+
+## Let's get in touch
+- **Email:** mohd.rizuan.mazlan@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mohd-rizuan/
