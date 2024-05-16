@@ -9,6 +9,6 @@ Hey! It's me, Rizuan.
 - Java
 
 ## Let's get in touch
-- **Website:** reezuan.com
+- **Website:** [reezuan.com](https://www.reezuan.com/)
 - **Email:** mohd.rizuan.mazlan@gmail.com
-- **LinkedIn:** linkedin.com/in/mohd-rizuan
+- **LinkedIn:** [linkedin.com/in/mohd-rizuan](https://www.linkedin.com/in/mohd-rizuan/)
