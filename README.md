@@ -1,5 +1,4 @@
-# curious-about-me
-Hey! It's me, Rizuan.
+# Hey! It's me, Rizuan.
 
 ## What languages do I know?
 - English (ha!)
