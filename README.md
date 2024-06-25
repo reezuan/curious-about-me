@@ -4,8 +4,8 @@ I'm a self-taught developer from Singapore with 4 years of experience in sales &
 ## Projects I've built
 Note: these projects were built at different stages of my learning journey. So you might notice that some of these projects look/work way better, or have a much neater code base, than the others – that's probably why.
 
-### [1) The Weather Cat](https://reezuan.github.io/TOP-weather-app/)
-<a href="https://reezuan.github.io/TOP-weather-app/">A simple weather app that displays key weather info for a given city.</a>
+### <a href="https://reezuan.github.io/TOP-weather-app/">1) The Weather Cat</a>
+A simple weather app that displays key weather info for a given city.
 
 ## What languages do I know?
 - English (ha!)
