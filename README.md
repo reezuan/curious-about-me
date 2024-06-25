@@ -7,6 +7,9 @@ Note: these projects were built at different stages of my learning journey. So y
 ### <a href="https://reezuan.github.io/TOP-weather-app/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">1) The Weather Cat</a>
 A simple weather app that displays key weather info for a given city.
 
+### <a href="https://reezuan.github.io/etch-a-sketch/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">2) Etch-a-Sketch</a>
+Create any design you want, in whatever colour you want, using this sketchboard. And activate horn mode... if you dare. (But please turn down your audio first.)
+
 ## What languages do I know?
 - English (ha!)
 - HTML
